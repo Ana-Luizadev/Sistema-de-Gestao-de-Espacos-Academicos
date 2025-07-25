@@ -1,3 +1,4 @@
+package scr.modelos;
 public class Laboratorio extends Espaco {
     private String tipoEquipamento;
 

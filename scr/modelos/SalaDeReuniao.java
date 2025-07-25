@@ -1,3 +1,4 @@
+package scr.modelos;
 public class SalaDeReuniao extends Espaco {
     private boolean temVideoConferencia;
 

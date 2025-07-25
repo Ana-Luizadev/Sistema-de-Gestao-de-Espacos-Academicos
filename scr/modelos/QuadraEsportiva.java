@@ -1,3 +1,4 @@
+package scr.modelos;
 public class QuadraEsportiva extends Espaco {
     private String tipoEsporte; // Ex: futsal, vôlei
 

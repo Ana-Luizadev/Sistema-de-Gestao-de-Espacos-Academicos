@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="15" alignment="CENTER" xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml" fx:controller="controllers.MenuController">
+    <Label text="Menu Principal" style="-fx-font-size: 24; -fx-font-weight: bold;" />
+
+    <Button text="Cadastrar Espaço" onAction="#abrirCadastroEspaco" />
+    <Button text="Visualizar Reservas" onAction="#abrirReservas" />
+    <Button text="Gerar Relatórios" onAction="#gerarRelatorios" />
+    <Button text="Sair" onAction="#sairSistema" />
+</VBox>

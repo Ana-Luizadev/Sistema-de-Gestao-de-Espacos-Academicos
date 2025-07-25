@@ -1,3 +1,6 @@
+import Espaco;
+
+package scr.modelos;
 public class Auditorio extends Espaco {
     private boolean acusticaEspecial;
 

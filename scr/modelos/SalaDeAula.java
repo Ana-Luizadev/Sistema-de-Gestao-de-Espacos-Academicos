@@ -1,3 +1,4 @@
+package scr.modelos;
 public class SalaDeAula extends Espaco {
     private boolean possuiProjetor;
 
