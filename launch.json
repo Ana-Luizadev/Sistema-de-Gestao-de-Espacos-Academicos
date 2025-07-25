@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch JavaFX",
+      "request": "launch",
+      "mainClass": "Main",  // Altere para o nome da sua classe principal com método main
+      "vmArgs": "--module-path C:/JavaFX/javafx-sdk-24.0.2/lib --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
